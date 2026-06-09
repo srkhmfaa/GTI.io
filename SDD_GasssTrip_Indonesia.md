@@ -285,7 +285,7 @@ Sistem GasssTrip Indonesia terdiri dari empat lapisan utama yang modular dan ind
 | Business Logic Layer | AI Recommendation Engine, Itinerary Generator, Cost Estimator, Subscription Manager | Pemrosesan rekomendasi, penyusunan jadwal, kalkulasi biaya |
 | Data Access Layer | Database Service, Cache Service, External API Connector | CRUD database, caching Redis, integrasi API eksternal |
 
-![Gambar 3.2 Arsitektur GTI](diagrams/Arsitektur_GTI.drawio.png)
+![Gambar 3.2 Arsitektur GTI](diagrams/Arsitektur_GTI.png)
 
 
 ---
