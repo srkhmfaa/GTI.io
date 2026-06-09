@@ -150,12 +150,11 @@ Sistem GasssTrip Indonesia berinteraksi dengan tiga aktor utama yang teridentifi
 | Traveler (User) | Aktor Utama | Pengguna akhir yang merencanakan perjalanan, mengakses fitur itinerary, estimasi biaya, pencarian wisata, booking, dan langganan |
 | Administrator | Aktor Internal | Mengelola data wisata dan memantau seluruh transaksi yang terjadi di platform |
 | Sistem OTA (Partner) | Aktor Eksternal | Sistem mitra Online Travel Agent (Tiket.com, Agoda, Booking.com, dll.) yang menyediakan data dan layanan booking penginapan |
-
-#### Deskripsi Use Case Utama
-
+(diagrams/usecase_drawio.png)
 
 > **Catatan:** Use case booking penginapan memiliki relasi `<<extend>>` terhadap use case melakukan login, artinya fitur booking hanya dapat diakses setelah pengguna berhasil login terlebih dahulu.
 **UC-01: Melakukan Login**
+#### Deskripsi Use Case Utama
 
 | Field | Keterangan |
 |-------|------------|
