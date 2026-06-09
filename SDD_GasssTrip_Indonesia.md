@@ -299,6 +299,8 @@ Sistem GasssTrip Indonesia terdiri dari empat lapisan utama yang modular dan ind
 
 Kelas domain GasssTrip mengacu langsung pada entitas di ERD GTI:
 
+![Gambar 3.3 ERD GTI](diagrams/ERD_GTI.drawio.png)
+
 | Kelas / Entitas | Atribut Utama | Relasi |
 |-----------------|---------------|--------|
 | User | user_id (PK), name, email, password_hash, role, status_akun, created_at | 1 User → banyak Itineraries; 1 User → 0/1 Subscription |
