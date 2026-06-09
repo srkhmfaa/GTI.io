@@ -468,35 +468,35 @@ Berikut adalah urutan interaksi dalam proses generate itinerary otomatis:
 - **Representation:**
 
 **Login Page**
-![Gambar 3.4 Login GTI](diagrams/Login_GTI.png)
+![Gambar 3.4 Login GTI](diagrams/Login_GTI.jpg)
 Di pojok kiri atas halaman login, kata "Trip" berwarna hijau berfungsi sebagai penanda merek GasssTrip Indonesia. Judul "Selamat Datang" dalam font bold diikuti subjudul "Masuk untuk melanjutkan perjalananmu" berwarna abu-abu. Kolom Email menampilkan placeholder format alamat email; kolom Password memiliki ikon mata untuk mengubah visibilitas. Tautan "Lupa password?" berwarna hijau berada di kanan bawah kolom password. Tombol utama "Masuk" berukuran penuh, diikuti divider teks "atau" dan tombol "Lanjutkan dengan Google". Bagian paling bawah menampilkan teks "Belum punya akun?" diikuti tautan "Daftar sekarang" berwarna hijau.
 
 **Onboarding Page**
-![Gambar 3.5 On-Boarding GTI](diagrams/On-Boarding_GTI.png)
+![Gambar 3.5 On-Boarding GTI](diagrams/On-Boarding_GTI.jpg)
 Di bagian atas terdapat stepper tiga langkah: kapsul pertama berwarna hijau tua (aktif), dua lainnya abu-abu. Di tengah halaman, ikon fitur berukuran besar dalam kotak bertepi membulat berlatar hijau gradasi. Judul "Buat Itinerary Otomatis" dengan deskripsi singkat di bawahnya. Dua tombol tersedia: "Lanjut" berlatar krem muda dan "Lewati" berbatas tipis tanpa isi.
 
 **Beranda Page**
-![Gambar 3.6 Beranda GTI](diagrams/Beranda_GTI.png)
+![Gambar 3.6 Beranda GTI](diagrams/Beranda_GTI.jpg)
 Header hijau tua dengan sapaan personal "Halo, [Nama]!" dan pertanyaan "Mau kemana hari ini?" dalam tipografi putih. Avatar inisial pengguna berwarna hijau mint dan ikon notifikasi di pojok kanan atas. Dua kartu statistik berdampingan berlatar krem: "3 Itinerary Tersimpan" dan "12 Destinasi Dijelajahi". Seksi "Destinasi populer" menampilkan dua kartu destinasi horizontal (Malang – hijau mint, Bali – biru muda). Tombol "Buat itinerary baru ↗" berukuran penuh berada di bagian bawah konten.
 
 **Form Itinerary Page**
-![Gambar 3.7 Form-Itinerary GTI](diagrams/Form-Itinerary_GTI.png)
+![Gambar 3.7 Form-Itinerary GTI](diagrams/Form-Itinerary_GTI.jpg)
 Header hijau tua dengan judul "Rencana Perjalanan Baru" dan tombol kembali (←) di sisi kiri. Form terdiri dari: (1) Dropdown "Kota Tujuan" dan stepper "Durasi (Hari)" dalam dua kolom berdampingan; (2) Input teks "Anggaran" dalam format rupiah; (3) Chip kategori wisata (Alam, Kuliner, Budaya, Pantai, Hidden Gems) yang dapat dipilih multi-pilih, chip terpilih berwarna hijau mint. Tombol "Generate itinerary otomatis ↗" berukuran penuh di bagian bawah.
 
 **Hasil Page**
-![Gambar 3.8 Hasil GTI](diagrams/Hasil_GTI.png)
+![Gambar 3.8 Hasil GTI](diagrams/Hasil_GTI.jpg)
 Header menampilkan judul "Yogyakarta · 3 hari" dengan ikon berbagi di kanan. Banner hijau berisi teks "Itinerary siap" dan estimasi biaya. Tab navigasi hari (Hari 1, Hari 2, Hari 3) dengan underline hijau untuk hari aktif. Setiap aktivitas ditampilkan sebagai baris dengan waktu (HH.MM), lingkaran warna kategori, nama tempat bold, deskripsi singkat, dan estimasi biaya. Badge "Hidden gem" berwarna kuning muda ditampilkan pada destinasi relevan. Kartu ringkasan biaya berlatar krem mencantumkan breakdown (Wisata & tiket, Kuliner, Penginapan) beserta total bold. Tombol "Simpan itinerary" dengan ikon disket di bagian bawah.
 
 **Cari Hotel Page**
-![Gambar 3.9 Hotel GTI](diagrams/Hotel_GTI.png)
+![Gambar 3.9 Hotel GTI](diagrams/Hotel_GTI.jpg)
 Header "Penginapan di Yogyakarta" dengan ikon filter di kanan. Chip filter OTA di bawah search bar: Traveloka, Tiket.com, Agoda, dan Semua (aktif, hijau). Grid dua kolom menampilkan kartu hotel, masing-masing berisi: header warna kategoris, ikon gedung, nama hotel, rating bintang, harga per malam, label OTA, dan tombol "Pesan" berukuran penuh.
 
 **Subscription Page**
-![Gambar 3.10 Subscription GTI](diagrams/Subscription_GTI.png)
+![Gambar 3.10 Subscription GTI](diagrams/Subscription_GTI.jpg)
 Halaman berjudul "Pilih paket premium" dengan subjudul penjelasan. Dua kartu paket ditampilkan vertikal: Kartu Bulanan dengan harga "Rp 29.000/bulan" berwarna hijau besar dan checklist fitur. Kartu Tahunan dengan badge "Paling populer" di pojok kiri atas dan border hijau lebih tebal sebagai penanda rekomendasi.
 
 **Profile User Page**
-![Gambar 3.11 Profil GTI](diagrams/Profil_GTI.png)
+![Gambar 3.11 Profil GTI](diagrams/Profil_GTI.jpg)
 Logo GasssTrip dan ikon pengaturan di kanan atas. Bagian profil menampilkan nama lengkap bold, alamat email, dan badge "Premium" berlatar hijau mint. Dua kartu statistik berlatar krem: "3 Itinerary Tersimpan" dan "12 Destinasi Dijelajahi". Sub-bagian "Itinerary tersimpan" menampilkan setiap itinerary dengan ikon lokasi berwarna berbeda (hijau mint = Yogyakarta, ungu = Bali, oranye = Lombok), beserta nama destinasi, durasi, tanggal, estimasi biaya, dan ikon panah (›) untuk navigasi ke detail.
 
 ---
